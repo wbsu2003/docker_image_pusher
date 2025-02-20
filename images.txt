@@ -3,3 +3,4 @@ ollama/ollama
 postgres:16-alpine
 mariadb:10.6
 redis:6.2-alpine
+opensecurity/mobile-security-framework-mobsf:latest
